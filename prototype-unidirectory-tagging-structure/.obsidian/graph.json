@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": true,
@@ -8,38 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path: /Challenges",
+      "query": "tag:#quote  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path: /Definitions",
+      "query": "tag:#topic  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431504
       }
     },
     {
-      "query": "path: /ReqEng",
+      "query": "tag:#picture  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path: /UI & Ux",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path: /Tools and Technologies",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 16750111
       }
     }
   ],
@@ -53,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8071174881785126,
+  "scale": 0.3852149351599094,
   "close": true
 }

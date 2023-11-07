@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "368d105d1e0d29fd",
+    "id": "08acc4c02a8d2c37",
     "type": "split",
     "children": [
       {
-        "id": "b66e099928bf53c1",
+        "id": "9cd7ad0a7a29df79",
         "type": "tabs",
         "children": [
           {
-            "id": "50d0eff2d7795e49",
+            "id": "751e6841c4a0fbd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "063a45ce615d62d1",
+    "id": "e518d6657d52bae1",
     "type": "split",
     "children": [
       {
-        "id": "b96644679f0946c9",
+        "id": "226c8733120099ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f5ffecbb7392c2e7",
+            "id": "7b34d6c831f1fcb6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "5f58e29e236de60b",
+            "id": "05e1b969c10bf3fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "99ac828a17addae1",
+            "id": "7dc5a982a2c8abea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "b81e2b6d2fc58d83",
+    "id": "0aff72256e03890b",
     "type": "split",
     "children": [
       {
-        "id": "65b7aa8dd17be73f",
+        "id": "fb28d3158acfa82a",
         "type": "tabs",
         "children": [
           {
-            "id": "26f4a9c72cb28f5c",
+            "id": "5deeacd236c813b4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "bd1b0f8958f33c4f",
+            "id": "2711396c71d5178b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "2bbc3d23afbc4323",
+            "id": "097ff33b5734aa00",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +114,19 @@
             }
           },
           {
-            "id": "910793f1dd331708",
+            "id": "8bf6ced7ee56bd74",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,48 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d0eff2d7795e49",
-  "lastOpenFiles": [
-    "XAI/UI & UX/Quote04.md",
-    "XAI/UI & UX/UI & UX.md",
-    "XAI/XAI.md",
-    "prototype-classic-directory-structure",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "XAI/Challenges/Challenges.md",
-    "XAI/Challenges/Quote03.md",
-    "XAI/ReqEng/Quote01.md",
-    "XAI/ReqEng/Picture 2.md",
-    "XAI/ReqEng/Picture 1.md",
-    "XAI/Tools and Technologies/Picture01.md",
-    "XAI/Tools and Technologies/Tools and Technologies.md",
-    "XAI/ReqEng/Quote02.md",
-    "XAI/ReqEng/ReqEng.md",
-    "XAI/UI & UX/Quote03.md",
-    "XAI/UI & UX/Quote02.md",
-    "XAI/UI & UX/Quote01.md",
-    "XAI/Definitions/Definitions.md",
-    "XAI/Definitions/Explainability/Explainability.md",
-    "XAI/Definitions/Transparency/Transparency.md",
-    "XAI/Definitions/Interpretability/Interpretability.md",
-    "XAI/Definitions/Explainability/Terminology/Terminology.md",
-    "XAI/Definitions/Explainability/Terminology/Quote 1.md",
-    "XAI/Definitions/Explainability/Terminology/Quote 9.md",
-    "XAI/Definitions/Explainability/What it takes/What it takes.md",
-    "XAI/Definitions/Explainability/What it takes",
-    "XAI/Definitions/Explainability/Quote 1.md",
-    "XAI/Definitions/Explainability/Terminology",
-    "XAI/Tools and Technologies/SHAP/SHAP.md",
-    "Stage 3/Termonology.md",
-    "XAI/Tools and Technologies/LIME",
-    "XAI/Tools and Technologies/SHAP",
-    "XAI/Tools and Technologies/MDNet",
-    "XAI/Definitions/Explainability/Measurement",
-    "XAI/Definitions/Explainability/Requirements/Untitled",
-    "XAI/Definitions/Explainability/Requirements",
-    "XAI/Definitions/Explainability",
-    "Pasted image 20230925170157.png",
-    "Pasted image 20230925165606.png",
-    "Pasted image 20230925165548.png"
-  ]
+  "active": "751e6841c4a0fbd2",
+  "lastOpenFiles": []
 }
