@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50d0eff2d7795e49",
+            "id": "049f26d3b984965d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -27,15 +27,14 @@
                 "file": "XAI/UI & UX/Quote04.md",
                 "mode": "source",
                 "source": false
-              }
+              },
 
               "type": "graph",
               "state": {}
 
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XAI/UI & UX/Quote04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XAI/UI & UX/Quote04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "XAI/UI & UX/Quote04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +174,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3397b3b38fe1c940",
+  "active": "049f26d3b984965d",
   "lastOpenFiles": [
+    "XAI/UI & UX/Quote04.md",
     "XAI/Definitions/Transparency/Quote 6.md",
     "XAI/Definitions/Transparency/Quote 7.md",
     "XAI/Definitions/Transparency/Transparency.md",
@@ -206,7 +202,6 @@
     "XAI/Challenges/Quote08.md",
     "XAI/Challenges/Quote01.md",
     "XAI/Challenges/Quote02.md",
-    "XAI/Challenges/Quote03.md",
     "prototype-classic-directory-structure",
     "Untitled.canvas",
     "Untitled 1.canvas",
