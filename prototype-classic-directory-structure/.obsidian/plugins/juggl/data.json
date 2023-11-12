@@ -47,7 +47,7 @@
     {
       "filter": "tag:#SubTag",
       "color": "#c45912",
-      "shape": "ellipse",
+      "shape": "diamond",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -60,7 +60,7 @@
     {
       "filter": "tag:#SubDefinitions",
       "color": "#ef2bf3",
-      "shape": "ellipse",
+      "shape": "rectangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -73,7 +73,7 @@
     {
       "filter": "tag:#SubToolsTechnologies",
       "color": "#42dd36",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -86,7 +86,7 @@
     {
       "filter": "tag:#SubReqEng",
       "color": "#221560",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -99,7 +99,7 @@
     {
       "filter": "tag:#SubChallenges",
       "color": "#32b7d2",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -112,7 +112,7 @@
     {
       "filter": "tag:#SubExplainabilityTransparency",
       "color": "#4d1d54",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -125,7 +125,7 @@
     {
       "filter": "tag:#SubExplainability",
       "color": "#2c4f58",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -138,7 +138,7 @@
     {
       "filter": "tag:#SubTransparency",
       "color": "#4dff91",
-      "shape": "ellipse",
+      "shape": "triangle",
       "icon": {
         "name": "No icon",
         "path": "",
