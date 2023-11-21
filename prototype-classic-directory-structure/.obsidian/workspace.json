@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b66e099928bf53c1",
+        "id": "cedca948d2a2b88c",
         "type": "tabs",
         "children": [
           {
-            "id": "50d0eff2d7795e49",
+            "id": "f24495236debd180",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marco-polo:Search": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

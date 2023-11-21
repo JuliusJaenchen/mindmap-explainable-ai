@@ -1,1 +1,12 @@
-{}
+{
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}

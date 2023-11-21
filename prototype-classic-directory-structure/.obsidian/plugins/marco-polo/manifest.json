@@ -1,0 +1,10 @@
+{
+	"id": "marco-polo",
+	"name": "Marco Polo",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Marco Polo plugin",
+	"author": "roriwa",
+	"authorUrl": "https://github.com/roriwa",
+	"isDesktopOnly": false
+}
