@@ -8,11 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f24495236debd180",
+            "id": "049f26d3b984965d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "3397b3b38fe1c940",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "XAI/UI & UX/Quote04.md",
+                "mode": "source",
+                "source": false
+              },
+
+              "type": "graph",
               "state": {}
+
             }
           }
         ]
@@ -120,9 +139,25 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "0f4e1256b9b15213",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8fa22ae111c5a9a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -136,41 +171,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "f5ffecbb7392c2e7",
+  "active": "049f26d3b984965d",
   "lastOpenFiles": [
+    "XAI/UI & UX/Quote04.md",
+    "XAI/Definitions/Transparency/Quote 6.md",
+    "XAI/Definitions/Transparency/Quote 7.md",
+    "XAI/Definitions/Transparency/Transparency.md",
+    "XAI/Definitions/Transparency/Quote 5.md",
+    "XAI/Definitions/Transparency/Quote 4.md",
+    "XAI/Definitions/Transparency/Quote 3.md",
+    "XAI/Definitions/Transparency/Quote 2.md",
+    "XAI/Definitions/Transparency/Quote 1.md",
+    "XAI/Definitions/Explainability/Quote 1.md",
+    "XAI/Definitions/Explainability/Quote 2.md",
+    "XAI/Definitions/Explainability/Quote 3.md",
+    "XAI/Definitions/Explainability/Quote 4.md",
+    "XAI/Definitions/Explainability/Explainability.md",
+    "XAI/Definitions/Explainability/Quote 5.md",
+    "XAI/Definitions/Explainability/Quote 6.md",
+    "XAI/Definitions/Explainability/Quote 7.md",
+    "XAI/Definitions/Explainability/Quote 8.md",
+    "XAI/Definitions/Explainability/What it takes/What it takes.md",
+    "XAI/Definitions/Explainability/Terminology/Terminology.md",
+    "XAI/Definitions/Explainability/Measurement/Measurement.md",
+    "XAI/Definitions/Explainability/Requirements/Requirements.md",
+    "XAI/UI & UX/UI & UX.md",
+    "XAI/Challenges/Quote08.md",
+    "XAI/Challenges/Quote01.md",
+    "XAI/Challenges/Quote02.md",
     "prototype-classic-directory-structure",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "XAI/XAI.md",
-    "XAI/Challenges/Challenges.md",
-    "XAI/Challenges/Quote03.md",
-    "XAI/ReqEng/Quote01.md",
-    "XAI/ReqEng/Picture 2.md",
-    "XAI/ReqEng/Picture 1.md",
-    "XAI/Tools and Technologies/Picture01.md",
-    "XAI/Tools and Technologies/Tools and Technologies.md",
-    "XAI/ReqEng/Quote02.md",
-    "XAI/ReqEng/ReqEng.md",
-    "XAI/UI & UX/Quote03.md",
-    "XAI/UI & UX/Quote02.md",
-    "XAI/UI & UX/Quote01.md",
-    "XAI/Definitions/Definitions.md",
-    "XAI/Definitions/Explainability/Explainability.md",
-    "XAI/Definitions/Transparency/Transparency.md",
-    "XAI/Definitions/Interpretability/Interpretability.md",
-    "XAI/Definitions/Explainability/Terminology/Terminology.md",
-    "XAI/Definitions/Explainability/Terminology/Quote 1.md",
-    "XAI/Definitions/Explainability/Terminology/Quote 9.md",
-    "XAI/Definitions/Explainability/What it takes/What it takes.md",
     "XAI/Definitions/Explainability/What it takes",
-    "XAI/Definitions/Explainability/Quote 1.md",
     "XAI/Definitions/Explainability/Terminology",
-    "XAI/Tools and Technologies/SHAP/SHAP.md",
-    "Stage 3/Termonology.md",
-    "Stage 3/What it takes.md",
     "XAI/Tools and Technologies/LIME",
     "XAI/Tools and Technologies/SHAP",
     "XAI/Tools and Technologies/MDNet",
@@ -178,7 +215,6 @@
     "XAI/Definitions/Explainability/Requirements/Untitled",
     "XAI/Definitions/Explainability/Requirements",
     "XAI/Definitions/Explainability",
-    "Gedankenpalast in Obsidian/Stage 3/Interpretability Quote",
     "Pasted image 20230925170157.png",
     "Pasted image 20230925165606.png",
     "Pasted image 20230925165548.png"
