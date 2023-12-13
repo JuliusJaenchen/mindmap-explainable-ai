@@ -1,6 +1,6 @@
 ## Beschreibung
 
-Das Zotero Integration Plugin schafft eine nahtlose Verbindung zwischen Obsidian und Zotero. Durch diese Schnittstelle wird das reibungslose Importieren von Zotero-Einträgen in Obsidian Notes ermöglicht. Des Weiteren erlaubt das Plugin die Extraktion von PDF-Annotation aus Zotero, jedoch ist aktuell eine Reparatur dieser Funktion erforderlich.
+Das Zotero Integration Plugin schafft eine nahtlose Verbindung zwischen Obsidian und Zotero. Durch diese Schnittstelle wird das reibungslose Importieren von Zotero-Einträgen in Obsidian Notes ermöglicht. Des Weiteren erlaubt das Plugin die Extraktion von PDF-Annotation aus Zotero, jedoch ist dieses Feature aktuell teilweise verbuggt und dadurch nicht besonders zuverlässig.
 
 ## Importieren von Einträgen
 ![[zotero-import-notes.gif]]
@@ -30,9 +30,22 @@ Eine einfache Template Datei könnte so aussehen:
 {% endif %}
 ```
 
+Durch das Hinzufügen von folgenden Zeilen können ebenfalls die Annotations mit importiert werden:
+```markdown
+{% for annotation in annotations %}
+{% if annotation.annotatedText %}
+
+> {{annotation.annotatedText}}
+> {% endif %}
+> {% if annotation.comment %}
+> {{annotation.comment}}
+{% endif %}
+{% endfor %}
+```
 ## Importieren von Annotations
 
 ### Zotero Integration Plugin
+**Teilweise verbuggt: [Issue #107](https://github.com/mgmeyers/obsidian-zotero-integration/issues/107)**
 ![[zotero-import-annotations.gif]]
 1. **Vorraussetzung:** Stelle sicher, dass Zotero geöffnet ist
 2. Drücke `STRG + P`, um die Konsole zu öffnen.
