@@ -1,7 +1,12 @@
 ## Beschreibung
 
 Das Zotero Integration Plugin schafft eine nahtlose Verbindung zwischen Obsidian und Zotero. Durch diese Schnittstelle wird das reibungslose Importieren von Zotero-Einträgen in Obsidian Notes ermöglicht. Des Weiteren erlaubt das Plugin die Extraktion von PDF-Annotation aus Zotero, jedoch ist dieses Feature aktuell teilweise verbuggt und dadurch nicht besonders zuverlässig.
+## Vorrausetzung
 
+Um das Zotero Integration Plugin verwenden zu können muss das Zotero Addon "Better BibTex" installiert werden.
+1. Lade die aktuellste Version von Better Bibtex herunter: https://github.com/retorquere/zotero-better-bibtex
+2. Öffne Zotero und öffne unter ``Werkzeuge > Addons`` das Fenster zur Verwaltung von Addons
+3. Klicke auf das Zahnrad, wähle `Install Add-On From File` und navigiere zu der in Schritt 2 heruntergeladenen Datei.
 ## Importieren von Einträgen
 ![[zotero-import-notes.gif]]
 1. **Vorraussetzung:** Stelle sicher, dass Zotero geöffnet ist und überprüfe ggf. die [Zotero Import Template Datei](prototype-unidirectory-tagging-structure/Template).
