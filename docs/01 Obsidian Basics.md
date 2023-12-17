@@ -71,3 +71,37 @@ Navigiere nicht nur durch direktes Anklicken von Links, sondern nutze auch Rück
     
 2. Verwende visuelle Darstellungen wie den "Lokalen Graphen" auf dem Desktop oder Mobilgerät, um mühelos zwischen verschiedenen Notizen zu navigieren.
  
+# Verwendung und Anordnung mehrere Fenster
+
+Du kannst in Obsidian mehrere Fenster gleichzeitig offen haben und diese beinahe beliebig anordnen. Halte dazu die Tabulator-Taste gedrückt. Jetzt kannst du einzelne Fenster umherziehen und anordnen. Innerhalb eines Fensters kann ein weiteres Fenster immer entweder oberhalb, unterhalb, links oder rechts platziert werden. Das funktioniert auch ineinander verschachtelt, woduch beliebig viele Fenster auf einmal angezeigt werden können.            
+
+# Einstellungen
+
+Mithilfe der Einstellungen von Obsidian können Verhalten und Darstellung von Obsidian umfangreich angepasst werden.
+
+## Editor
+
+In diesem Abschnitt der Einstellungen kann das Verhalten des Editors angepasst werden. Dazu gehören unter anderem eine automatische Markdown-Vervollständigung, verschiedene Bearbeitungsmodi und Standardwerte.
+
+## Dateien & Links
+
+Hier kann eingestellt werden, wie Obsidian mit deinen Dateien umgeht. Besonders relevant sind dabei der standardmäßige Speicherort, sowie die Einstellung, was mit gelöschten Dateien passieren soll.
+
+## Darstellung
+
+Standardmäßig kann zwischen zwei grundlegenden Themes gewählt werden, light und dark. Zusätzlich gibt es aber auch noch diverse Themes, die von der Community erstellt wurden.
+Das Theme kann in den Einstellungen im Bereich "Darstellung" geändert werden.
+
+Des weiteren können in diesem Abschnitt Dinge wie Schriftarten und einige erweiterte Darstellungsoptionen angepasst werden.
+
+## Tastenkürzel
+
+Hier können Tastenkürzel erstellt oder angepasst werden. Obsidian bietet dabei eine enorm große Anzahl an möglichen Tastenkürzeln, die die Arbeit deutlich effizienter gestalten können.
+
+## Erweiterungen
+
+Hier gibt es eine große Anzahl von Obsidian-eigenen oder Community-Erweiterungen. Für diese Erweiterungen gibt es häufig auch nochmal separate Einstellungen für die jeweilige Erweiterung.
+
+# Lokaler und globaler Graph
+
+Die Graph View ist sehr nützlich, um Zusammenhänge effizient und leicht verständlich, darzustellen. Die globale Graph View zeigt dabei alle Notes an, die vorhanden sind, während sich die lokale Graph View auf die Notizen beschränkt, die tatsächlich mit der aktuell ausgewählten Notiz in Verbindung stehen.
