@@ -1,8 +1,3 @@
-# Doku
-
-Team: Integration
-Status: In progress
-
 # Zettelkasten/Unidirectory Baschics
 
 ## Zettelkasten explained
@@ -64,6 +59,7 @@ The Zettelkasten utilizes a structured tagging system comprising three main cate
 - **Flexibility:** This tagging approach allows users to navigate seamlessly between different types of information, fostering a comprehensive understanding of subjects.
 
 # How to recreate the Miro Board in the Unidirectory structure
+The term "Unidirectory" is synonymous with Zettelkasten, and we use them interchangeably.
 
 ## Our best practices
 
