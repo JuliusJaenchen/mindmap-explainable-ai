@@ -1,4 +1,4 @@
-# Zettelkasten/Unidirectory Baschics
+# Zettelkasten/Unidirectory Basics
 
 ## Zettelkasten explained
 
@@ -55,7 +55,7 @@ The Zettelkasten utilizes a structured tagging system comprising three main cate
 
 ### Integration of Tags and links
 
-- **Interrelatedness:** The user has to make that quotes and pictures are always linked to at least one topic, thus promoting a multidimensional and interconnected knowledge network.
+- **Interrelatedness:** The user has to make sure that quotes and pictures are always linked to at least one topic, thus promoting a multidimensional and interconnected knowledge network.
 - **Flexibility:** This tagging approach allows users to navigate seamlessly between different types of information, fostering a comprehensive understanding of subjects.
 
 # How to recreate the Miro Board in the Unidirectory structure
@@ -63,11 +63,11 @@ The term "Unidirectory" is synonymous with Zettelkasten, and we use them interch
 
 ## Our best practices
 
-All knowledge objects Topics, Subtopics, Quotes, Images etc. are stored in one directory:
+All knowledge objects topics, subtopics, quotes, images etc. are stored in one directory:
 
 ![Untitled](images/Unidirectory/Untitled%201.png)
 
-These objects can be differentiated by the following #tags: quote, topic and picture
+These objects can be differentiated by the following #tags: quote, topic, and picture
 
 ![Untitled](images/Unidirectory/Untitled%202.png)
 
@@ -75,7 +75,7 @@ To add a tag to a Note like Interpretability you edit the property “tags” in
 
 ![Untitled](images/Unidirectory/Untitled%203.png)
 
-You can then add content to this topic and link your Quotes their:
+You can then add content to this topic and link your Quotes there:
 
 ![Untitled](images/Unidirectory/Untitled%204.png)
 
@@ -83,7 +83,7 @@ If you then look in the local graph of Interpretability you see that there are m
 
 ![Untitled](images/Unidirectory/Untitled%205.png)
 
-You can navigate those quotes and see their content, local graph and metadata
+You can navigate those quotes and see their content, local graph, and metadata
 
 ![Untitled](images/Unidirectory/Untitled%206.png)
 
@@ -91,7 +91,7 @@ Through the related property of Interpretability, you can navigate to its parent
 
 ![Untitled](images/Unidirectory/Untitled%207.png)
 
-When you want a full overview of you knowledge objects like the Miro Mindmap you can open the Graph View. Here we added some colors to those tags in the Graph View Settings panel to better distinguish the tags.
+When you want a full overview of your knowledge objects like the Miro Mindmap you can open the Graph View. Here we added some colors to those tags in the Graph View Settings panel to better distinguish the tags.
 
 ![Untitled](images/Unidirectory/Untitled%208.png)
 
